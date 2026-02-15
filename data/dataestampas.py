@@ -1,4 +1,4 @@
-🎨 data/estampas.py
+data/estampas.py
 # -*- coding: utf-8 -*-
 """
 Dados de Estampas e Custos de Produção

@@ -1,4 +1,4 @@
-📄 app.py (V2 - Com Empacotamento Inteligente)
+app.py (V2 - Com Empacotamento Inteligente)
 # -*- coding: utf-8 -*-
 """
 Sistema de Orçamento Entre Fios - Interface Streamlit Completa (V2)
@@ -130,7 +130,7 @@ if st.session_state.orcamento_itens:
     
     resumo = calcular_resumo_orcamento(st.session_state.orcamento_itens, forma_pag)
     
-    st.markdown("### 📊 Orçamento")
+    st.markdown("### Orçamento")
     m1, m2, m3 = st.columns(3)
     m1.metric("Quantidade", f"{resumo['total_quantidade']} peças")
     m2.metric("Valor Unitário (Médio)", f"R$ {resumo['valor_final_com_taxa']/resumo['total_quantidade']:.2f}")

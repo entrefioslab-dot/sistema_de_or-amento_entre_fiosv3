@@ -1,4 +1,4 @@
-📋 requirements.txt
+requirements.txt
 streamlit
 pandas
 reportlab

@@ -1,4 +1,4 @@
-💳 data/pagamentos.py
+data/pagamentos.py
 
 # -*- coding: utf-8 -*-
 """
