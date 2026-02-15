@@ -1,5 +1,3 @@
-data/pagamentos.py
-
 # -*- coding: utf-8 -*-
 """
 Dados de Formas de Pagamento e Taxas

@@ -1,4 +1,3 @@
-logic/calculos.py (V2 - COM ALGORITMO INTELIGENTE)
 # -*- coding: utf-8 -*-
 """
 Lógica de Cálculos de Orçamento - Entre Fios (V2)

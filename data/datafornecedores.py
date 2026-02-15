@@ -1,4 +1,3 @@
-data/fornecedores.py
 # -*- coding: utf-8 -*-
 """
 Dados de Fornecedores e Produtos

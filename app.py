@@ -1,4 +1,3 @@
-app.py (V2 - Com Empacotamento Inteligente)
 # -*- coding: utf-8 -*-
 """
 Sistema de Orçamento Entre Fios - Interface Streamlit Completa (V2)
