@@ -10,11 +10,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-from data.fornecedores import obter_fornecedores, obter_produtos_fornecedor, obter_produto_info
-from data.estampas import obter_custos_estampa
-from data.pagamentos import obter_formas_pagamento
-from logic.calculos import calcular_resumo_orcamento
-from logic.pdf_generator import gerar_proposta_pdf
+from data.datafornecedores import obter_fornecedores, obter_produtos_fornecedor, obter_produto_info
+from data.dataestampas import obter_custos_estampa
+from data.datapagamentos import obter_formas_pagamento
+from logic.logiccalculos import calcular_resumo_orcamento
+
 
 # --- Configuração da Página ---
 st.set_page_config(
